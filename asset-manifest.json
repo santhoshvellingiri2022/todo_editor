@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/santhoshvellingiri2022/todo-Lister.git/static/css/main.c0b68f2c.css",
-    "main.js": "/santhoshvellingiri2022/todo-Lister.git/static/js/main.b8224657.js",
-    "index.html": "/santhoshvellingiri2022/todo-Lister.git/index.html",
-    "main.c0b68f2c.css.map": "/santhoshvellingiri2022/todo-Lister.git/static/css/main.c0b68f2c.css.map",
-    "main.b8224657.js.map": "/santhoshvellingiri2022/todo-Lister.git/static/js/main.b8224657.js.map"
+    "main.css": "/santhoshvellingiri2022/todo_editor.git/static/css/main.c0b68f2c.css",
+    "main.js": "/santhoshvellingiri2022/todo_editor.git/static/js/main.b8224657.js",
+    "index.html": "/santhoshvellingiri2022/todo_editor.git/index.html",
+    "main.c0b68f2c.css.map": "/santhoshvellingiri2022/todo_editor.git/static/css/main.c0b68f2c.css.map",
+    "main.b8224657.js.map": "/santhoshvellingiri2022/todo_editor.git/static/js/main.b8224657.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b68f2c.css",
