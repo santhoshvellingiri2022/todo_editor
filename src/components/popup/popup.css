@@ -1,0 +1,26 @@
+.containerPop{
+
+    width: 20rem;
+    height:3rem;
+    background:#0dcffb;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    animation-name: animePop;
+    animation-duration: 2s;
+    transition: all 300ms ease;
+    animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+
+}
+.containerPop p{
+    margin-left: 10px;
+}
+.containerPop:hover{
+     background: rgba(255, 0, 81, 0.934);
+     transition: all 300ms ease-out;
+
+}
+
