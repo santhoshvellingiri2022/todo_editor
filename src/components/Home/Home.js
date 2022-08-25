@@ -39,10 +39,11 @@ const Home = () => {
             <input placeholder='Type the Remainder!' onChange={changer}></input>
             
         </div>
+{/*         
         <div className='addvar'>
             <input placeholder='Type the Remainder!' onChange={changer} type='date' className='dateTimecon'></input>
-            {/* <button id="btn" onClick={submit}>Add</button> */}
-        </div>
+            {/* <button id="btn" onClick={submit}>Add</button> */
+  }
         <button  className='btnAdd' onClick={submit}>Add</button>
       
       
